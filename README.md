@@ -1,6 +1,8 @@
 # 🍕 Pizza Sales Analysis - SQL Project
 
 ![Pizza Logo](https://raw.githubusercontent.com/YourGitHubUsername/YourRepositoryName/main/pizza_logo.png)
+![Pizza Logo](assets/pizza_logo.png)
+
 
 
 ## 📌 Project Overview
