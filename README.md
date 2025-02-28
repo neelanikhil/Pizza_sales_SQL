@@ -1,9 +1,5 @@
 # 🍕 Pizza Sales Analysis - SQL Project
 
-![Pizza Logo](https://raw.githubusercontent.com/YourGitHubUsername/YourRepositoryName/main/pizza_logo.png)
-![Pizza Logo](assets/pizza_logo.png)
-
-
 
 ## 📌 Project Overview
 This project is part of my portfolio, showcasing SQL skills in **data analysis** and **business intelligence**. Using SQL queries, I explored **pizza sales data** to gain insights into order trends, revenue generation, peak sales hours, and customer preferences. 
